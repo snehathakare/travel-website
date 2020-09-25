@@ -1,0 +1,10 @@
+.btn-primary {
+    background-color: green;
+    color: black;
+}
+
+.btn-outline {
+    background-color: transparent;
+    color: white;
+    outline-color: white;
+}
